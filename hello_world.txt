@@ -2,3 +2,6 @@ print("hello world!");
 print("ok");
 print("it's ok");
 full_command("jjj");
+new command("xxx");
+print("it");
+print("super");
