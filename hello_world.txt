@@ -1,3 +1,4 @@
 print("hello world!");
 print("ok");
 print("it's ok");
+да
