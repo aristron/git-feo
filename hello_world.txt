@@ -3,3 +3,4 @@ print("ok");
 print("it's ok");
 new command("xxx");
 print("it");
+print("super");
